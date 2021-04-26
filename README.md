@@ -29,7 +29,7 @@
 
 ## UML
 
-![image](https://user-images.githubusercontent.com/33704616/115880535-7425d300-a410-11eb-8d62-172d2053a2a0.png)
+![image](https://user-images.githubusercontent.com/33704616/116159433-d8b58c00-a6b5-11eb-8f1b-f677225574c4.png)
 
 
 
