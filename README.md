@@ -6,8 +6,6 @@
 
 ## Links and Resources
 
-[Production URL](https://jarrell-basic-auth.herokuapp.com/)
-
 [Github Actions](https://github.com/Jarrell28/basic-auth/actions)
 
 [Pull Requests](https://github.com/Jarrell28/basic-auth/pull/2)
